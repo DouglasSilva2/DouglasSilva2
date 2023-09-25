@@ -1,11 +1,14 @@
-### Olá, Sou Douglas Silva
-##
+***
+<div> 
+        <p align="center" >Ola 👋🏾, Me chamo Douglas!! 🤓<p>
+<div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0110ed&height=120&section=header"/>
 
+****
+<br><br>
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f30139&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!;Sou+Graduando+em;Analise+e+Desenvolvimento+de+Sistemas;)](https://git.io/typing-svg)
 
-##
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f30139&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!;Sou+Graduando+em;Analise+e+Desenvolvimento+de+Sistemas;)](https://git.io/typing-svg)
+<br></br>
 
  <br></br>
 <div align="center" style="display: inline_block"><br>
