@@ -39,7 +39,7 @@
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](douglas.t.silva63@gmail.com)
     [![LinkDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-teixeira-da-silva-4217ba189/)
     [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](Douglas.Silva.douglas.silva)
-    [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)]()
+    [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/)
 <div align="left">
     <li>𝐀𝐩𝐚𝐢𝐱𝐨𝐧𝐚𝐝𝐨 𝐩𝐨𝐫 𝐓𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐢𝐚 👨🏾‍💻</li>
     <li>𝐄𝐦 𝐂𝐨𝐧𝐬𝐭𝐚𝐧𝐭𝐞 𝐃𝐞𝐬𝐞𝐧𝐯𝐨𝐥𝐯𝐢𝐦𝐞𝐧𝐭𝐨 🖳</li>
