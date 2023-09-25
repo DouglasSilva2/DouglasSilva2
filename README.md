@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#0d054f&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0591E8&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!;Me+chamo+Douglas+Silva;Tenho+28+anos;Resido+em+São+Jose+dos+Campos,+Brasil;Sou+Graduando+em;Analise+e+Desenvolvimento+de+Sistemas;+E+Pos+-Graduado+pela+PUCPR+em:+Arquitetura+Software,Ciencia+de+Dados+e+CyberSecurity;:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0591E8&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!;Me+chamo+Douglas+Silva;Tenho+28+anos;Resido+em+São+Jose+dos+Campos,+Brasil;Sou+Graduando+em;Analise+e+Desenvolvimento+de+Sistemas;+Pos-Graduado+pela+PUCPR:+Arquitetura+Software,Ciência+de+Dados+e+CyberSecurity)](https://git.io/typing-svg)
 
  
 <div style="display: inline_block"><br>
