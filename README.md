@@ -1,8 +1,13 @@
+### Olá, Sou Douglas Silva
+##
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0110ed&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f30139&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!;Me+chamo+Douglas+Silva;Tenho+28+anos;Resido+em+São+Jose+dos+Campos,+SP;Sou+Graduando+em;Analise+e+Desenvolvimento+de+Sistemas;Pos-Graduado+pela+PUCPR:+Arquitetura+Software,Ciência+de+Dados+e+CyberSecurity)](https://git.io/typing-svg)
 
- 
+##
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f30139&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!;Me+chamo+Douglas+Silva;Tenho+28+anos;Resido+em+São+Jose+dos+Campos,+SP;Sou+Graduando+em;Analise+e+Desenvolvimento+de+Sistemas;)](https://git.io/typing-svg)
+
+ <br></br>
 <div align="center" style="display: inline_block"><br>
    <img align="center" alt="Douglas-AndroidStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
    <img align="center" alt="Douglas-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -15,6 +20,7 @@
    <img align="center" alt="Douglas-Apple" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
    <img align="center" alt="Douglas-Xcode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
 </div>
+  <br><br>
   
 ##
 
@@ -28,9 +34,8 @@
 </div>
   
 <div align="center">
-     <br><p align="centre"><b>Nomades Passantes</b></p>  
+     <br><p align="centre"><b>Dev_Comit</b></p>  
      <p align="center"><img align="center" src="https://profile-counter.glitch.me/{sfarinas}/count.svg?text_color=0293E8" /></p> 
      <br>
 </div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0110ed&height=120&section=footer"/>
