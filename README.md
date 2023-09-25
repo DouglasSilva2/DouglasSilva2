@@ -5,7 +5,7 @@
 
 ##
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f30139&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!;Me+chamo+Douglas+Silva;Tenho+28+anos;Resido+em+São+Jose+dos+Campos,+SP;Sou+Graduando+em;Analise+e+Desenvolvimento+de+Sistemas;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f30139&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!;Sou+Graduando+em;Analise+e+Desenvolvimento+de+Sistemas;)](https://git.io/typing-svg)
 
  <br></br>
 <div align="center" style="display: inline_block"><br>
