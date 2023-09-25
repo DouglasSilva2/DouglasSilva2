@@ -9,7 +9,7 @@
 ***
 
 <br><br>
-    ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f30139&size=19&center=true&vCenter=true&width=1000&lines=I'm+Postgraduate:+PUCPR:+Software+Architecture,+Data+Science+and+CyberSecurity;)
+    ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f30139&size=19&center=true&vCenter=true&width=1000&lines=I'm+Postgraduate:+PUCPR:+Software+Architecture,+Data+Science+CyberSecurity;)
 
 <br></br>
 
@@ -36,12 +36,16 @@
   
 <div align="center"> 
   
-  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-    ![LinkDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-    ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-    ![Discord](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](douglas.t.silva63@gmail.com)
+    [![LinkDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-teixeira-da-silva-4217ba189/)
+    [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](Douglas.Silva.douglas.silva)
+    [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)]()
+<div align="left">
+    <li>𝐀𝐩𝐚𝐢𝐱𝐨𝐧𝐚𝐝𝐨 𝐩𝐨𝐫 𝐓𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐢𝐚 👨🏾‍💻</li>
+    <li>𝐄𝐦 𝐂𝐨𝐧𝐬𝐭𝐚𝐧𝐭𝐞 𝐃𝐞𝐬𝐞𝐧𝐯𝐨𝐥𝐯𝐢𝐦𝐞𝐧𝐭𝐨 🖳</li>
+    <li>𝐄𝐬𝐭𝐮𝐝𝐚𝐧𝐝𝐨 𝐈𝐧𝐭𝐞𝐥𝐢𝐠𝐞𝐧𝐜𝐢𝐚 𝐀𝐫𝐭𝐢𝐟𝐢𝐜𝐢𝐚𝐥 👨🏾‍🏫</li>    
+<div>
 
-     
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0110ed&height=120&section=footer"/>
